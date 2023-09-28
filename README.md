@@ -7,8 +7,5 @@ Before and after each test, `standard_user` is logged into and out of the site, 
 
 This covers the following workflows (more to come):
 
-* Adding a single item into the cart
-* Adding multiple items into the cart
-* Removing a single item out of the cart whem multiple items are in the cart
+* Adding items into the cart
 * Removing all the item(s) out of the cart
-* Checking out and completing the purchase
